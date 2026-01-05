@@ -85,20 +85,6 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
                         children: [
                           Column(
                             children: [
-                      // Container(
-                      //   width: MediaQuery.of(context).size.height /2,
-                      //   margin: EdgeInsets.symmetric(
-                      //     vertical: 15,
-                      //     horizontal: 15,
-                      //   ),
-                      //   decoration: BoxDecoration(color: TemaWarna.grey,
-                      //   borderRadius: BorderRadius.circular(20),
-                      //   ),
-                      //   child: Column(
-                      //     crossAxisAlignment: CrossAxisAlignment.start,
-                      //     children: [Center(child: Text("MANUAL", style: provider.font1,))],
-                      // )
-                      // ),
 
                               Container(
                                 height: 600,
@@ -184,10 +170,6 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
                   ),
                 ]
                 ),
-                      // Padding(
-                        // padding: const EdgeInsets.all(100.0),
-                        // child: Lottie.asset('loading.json'),
-                      // )
                              ]
                             ),
               ),
