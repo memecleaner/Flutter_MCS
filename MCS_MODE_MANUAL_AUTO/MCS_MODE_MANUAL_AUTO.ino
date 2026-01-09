@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <FirebaseESP8266.h>
 
-#define WIFI_SSID "Ee"
-#define WIFI_PASSWORD "Eebanget"
+#define WIFI_SSID "kokocute"
+#define WIFI_PASSWORD "qwertyuiop"
 #define FIREBASE_HOST "proyek-mcs-c23ac-default-rtdb.asia-southeast1.firebasedatabase.app"
 #define FIREBASE_AUTH "l60Nqsin6WlqYaHLfLgr0V9SOwhpf9IbfGFxNbbD"
 
